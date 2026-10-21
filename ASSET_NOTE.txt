@@ -1,0 +1,1 @@
+The PNG character cutouts were cropped from the provided portfolio mockup image and had pale checkerboard-like pixels keyed out. For best quality, replace them with the original full-resolution transparent PNGs if you have them. Also replace the LinkedIn placeholder in README.md with your exact profile URL.
