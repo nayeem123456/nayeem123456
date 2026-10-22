@@ -1,52 +1,68 @@
 <div align="center">
 
-![Hero](./assets/hero.svg?v=1)
+![Hero](./assets/hero.svg?v=2)
 
-![About & Life](./assets/about-life.svg?v=1)
+![About & Life](./assets/about-life.svg?v=2)
 
-![Stack](./assets/stack.svg?v=1)
+![Stack](./assets/stack.svg?v=2)
 
-![ID Dashboard](./assets/id-dashboard.svg?v=1)
+![ID Dashboard](./assets/id-dashboard.svg?v=2)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./assets/connect.svg?v=2)
 
 </div>
 
 ## 🚀 Featured Engineering Projects
 
-| Project | Focus Area | Core Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **[RiskPulse](https://github.com/nayeem123456/RiskPulse)** | **Real-Time Fraud Detection & Risk Intelligence**<br>Transaction risk analysis, suspicious-pattern detection, and risk monitoring. | Python, FastAPI, XGBoost, PostgreSQL, Streamlit | [Explore Repo →](https://github.com/nayeem123456/RiskPulse) |
-| **[AI Resume Screening Agent](https://github.com/nayeem123456/resume-screening-agent)** | **Automated Talent Intelligence**<br>Resume-to-job-description matching using weighted skill matching and semantic similarity. | Python, NLP, TF-IDF, Streamlit | [Explore Repo →](https://github.com/nayeem123456/resume-screening-agent) |
-| **[AI Palm Vein Payment System](https://github.com/nayeem123456/SecurePanel/tree/main/project_pvps)** | **Biometric Authentication & Security**<br>Prototype exploring palm-vein recognition with a Flask backend and database integration. | Python, OpenCV, Flask, MySQL, Computer Vision | [Explore Repo →](https://github.com/nayeem123456/SecurePanel/tree/main/project_pvps) |
+<br/>
 
-## 🌐 Connect & Collaborate
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 HealthCare AI Platform</h3>
+      <p align="center">
+        <b>Smart Patient Diagnostics & Medical Insights System</b>
+      </p>
+      <p>
+        An AI-powered healthcare assistant designed to analyze patient symptoms, predict potential health risks, and assist medical professionals with data-driven diagnostic insights.
+      </p>
+      <p>
+        <b>Key Features:</b><br/>
+        • Machine Learning diagnostic prediction models<br/>
+        • Automated patient risk stratification<br/>
+        • Interactive health monitoring dashboard<br/>
+        • Secure medical data processing pipelines
+      </p>
+      <p>
+        <b>Tech Stack:</b> Python, Scikit-Learn, FastAPI, React, PostgreSQL
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💳 AI Fraud Detection System</h3>
+      <p align="center">
+        <b>Real-Time Financial Transaction Anomaly Analysis</b>
+      </p>
+      <p>
+        An enterprise-grade fraud detection engine built to analyze real-time streaming financial transactions and flag high-risk activities using machine learning algorithms.
+      </p>
+      <p>
+        <b>Key Features:</b><br/>
+        • Real-time streaming transaction processing<br/>
+        • Anomaly detection using Isolation Forests & XGBoost<br/>
+        • Risk scoring API for instant transaction decisioning<br/>
+        • Comprehensive administrative dashboard
+      </p>
+      <p>
+        <b>Tech Stack:</b> Java, Spring Boot, Kafka, Python, XGBoost, Docker
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-nayeem123456-070b16?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b)](https://github.com/nayeem123456)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-070b16?style=for-the-badge&logo=linkedin&logoColor=247bff&labelColor=1e293b)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Status-Open_To_Roles-070b16?style=for-the-badge&logo=codeforces&logoColor=ff354f&labelColor=1e293b)](https://github.com/nayeem123456)
-
-</div>
+<br/>
 
 ---
 
-### About Me
-Computer Science Engineering graduate interested in software engineering, Java full-stack development, AI applications, and data-driven systems. I enjoy building practical projects, learning new technologies, and turning ideas into working software.
-
-### Skills
-- **Languages:** Java, Python, SQL, JavaScript, R
-- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JSP, Servlets, JDBC, Flask, REST APIs
-- **Frontend:** HTML, CSS, JavaScript, JSP, Tailwind CSS
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **AI & Data:** Scikit-learn, Pandas, NumPy, OpenCV, NLP, TF-IDF, semantic similarity
-- **Tools:** Git, GitHub, VS Code, Eclipse, Apache Tomcat, Maven, Jupyter Notebook, Google Colab
-
-### Education & Experience
-- B.E. in Computer Science Engineering, 2026 | CGPA: 8.2/10
-- Cybersecurity Intern, Athreya Technologies Pvt. Ltd. | 440 hours
-- Java Developer Intern, JSpiders, Bengaluru
-- Third place in a college full-stack hackathon
-
-> Note: Replace the LinkedIn link above with your exact LinkedIn profile URL before publishing. Verify all project-specific metrics and technologies against the current repository before claiming them publicly.
+<p align="center">
+  <i>"Building scalable software, exploring AI/ML, and turning ideas into impactful digital products."</i>
+</p>
