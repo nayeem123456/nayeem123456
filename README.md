@@ -1,166 +1,68 @@
-<div align="center">
-
-![Hero](./assets/hero.svg?v=2)
-
-![About & Life](./assets/about-life.svg?v=2)
-
-![Stack](./assets/stack.svg?v=2)
-
-![ID Dashboard](./assets/id-dashboard.svg?v=2)
-<div align="center">
-
-  <img src="./assets/hero.svg?v=3" alt="Hero" width="100%">
-
-  <img src="./assets/about-life.svg?v=3" alt="About and Life" width="100%">
-
-  <img src="./assets/stack.svg?v=3" alt="Technology Stack" width="100%">
-
-  <img src="./assets/id-dashboard.svg?v=3" alt="ID Dashboard" width="100%">
-
-  <img src="./assets/connect.svg?v=3" alt="Connect" width="100%">
-
-</div>
-
-## 🚀 Featured Engineering Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💳 RiskPulse</h3>
-      <p align="center"><b>Real-Time Fraud Detection & Risk Intelligence</b></p>
-      <p>
-        A transaction risk intelligence platform designed to identify suspicious financial activity, analyze transaction patterns, and generate explainable risk scores.
-      </p>
-      <p>
-        <b>Key Features:</b><br>
-        • Fraud detection and transaction risk scoring<br>
-        • Suspicious pattern and anomaly analysis<br>
-        • Explainable risk intelligence<br>
-        • Transaction monitoring
-      </p>
-      <p><b>Tech Stack:</b> Python, SQL, Kafka, PySpark, XGBoost, PostgreSQL, FastAPI, Docker</p>
-      <p align="center">
-        <a href="https://github.com/nayeem123456/RiskPulse"><b>View Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Resume Screening Agent</h3>
-      <p align="center"><b>Intelligent Resume Matching & Candidate Ranking</b></p>
-      <p>
-        An AI-assisted resume screening application that evaluates candidate profiles against job requirements and ranks resumes using a weighted scoring approach.
-      </p>
-      <p>
-        <b>Key Features:</b><br>
-        • Skill-match scoring<br>
-        • Semantic similarity analysis<br>
-        • Experience and education scoring<br>
-        • Interactive Streamlit dashboard and results export
-      </p>
-      <p><b>Tech Stack:</b> Python, Streamlit, NLP, Semantic Similarity, Pandas</p>
-      <p align="center">
-        <a href="https://github.com/nayeem123456/resume-screening-agent"><b>View Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖐️ Palm Vein Payment System</h3>
-      <p align="center"><b>Biometric Authentication & Payment Prototype</b></p>
-      <p>
-        A biometric payment prototype exploring palm-vein-based user verification and secure transaction workflows for users and merchants.
-      </p>
-      <p>
-        <b>Key Features:</b><br>
-        • Palm image capture and registration workflow<br>
-        • User and merchant authentication<br>
-        • Payment transaction management<br>
-        • PHP and MySQL database integration
-      </p>
-      <p><b>Tech Stack:</b> Python, OpenCV, PHP, MySQL, HTML, CSS, JavaScript</p>
-      <p align="center">
-        <a href="https://github.com/nayeem123456/SecurePanel/tree/main/project_pvps"><b>View Repository →</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 What I Build</h3>
-      <p>
-        Software engineering solutions that combine backend development, data-driven intelligence, and practical AI applications.
-      </p>
-      <p>
-        <b>Focus Areas:</b><br>
-        • Backend engineering and REST APIs<br>
-        • Data engineering and analytics<br>
-        • AI-assisted applications<br>
-        • Secure and scalable system design
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<p align="center">
-  <i>Building scalable software, exploring AI and data engineering, and turning ideas into impactful digital products.</i>
-</p>
-
-
-![Connect](./assets/connect.svg?v=2)
-
-</div>
-
-## 🚀 Featured Engineering Projects
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 HealthCare AI Platform</h3>
-      <p align="center">
-        <b>Smart Patient Diagnostics & Medical Insights System</b>
-      </p>
-      <p>
-        An AI-powered healthcare assistant designed to analyze patient symptoms, predict potential health risks, and assist medical professionals with data-driven diagnostic insights.
-      </p>
-      <p>
-        <b>Key Features:</b><br/>
-        • Machine Learning diagnostic prediction models<br/>
-        • Automated patient risk stratification<br/>
-        • Interactive health monitoring dashboard<br/>
-        • Secure medical data processing pipelines
-      </p>
-      <p>
-        <b>Tech Stack:</b> Python, Scikit-Learn, FastAPI, React, PostgreSQL
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💳 AI Fraud Detection System</h3>
-      <p align="center">
-        <b>Real-Time Financial Transaction Anomaly Analysis</b>
-      </p>
-      <p>
-        An enterprise-grade fraud detection engine built to analyze real-time streaming financial transactions and flag high-risk activities using machine learning algorithms.
-      </p>
-      <p>
-        <b>Key Features:</b><br/>
-        • Real-time streaming transaction processing<br/>
-        • Anomaly detection using Isolation Forests & XGBoost<br/>
-        • Risk scoring API for instant transaction decisioning<br/>
-        • Comprehensive administrative dashboard
-      </p>
-      <p>
-        <b>Tech Stack:</b> Java, Spring Boot, Kafka, Python, XGBoost, Docker
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<p align="center">
-  <i>"Building scalable software, exploring AI/ML, and turning ideas into impactful digital products."</i>
-</p>
+\<div align="center">\
+\
+![Hero]\(./assets/hero.svg?v=2)\
+\
+![About & Life]\(./assets/about-life.svg?v=2)\
+\
+![Stack]\(./assets/stack.svg?v=2)\
+\
+![ID Dashboard]\(./assets/id-dashboard.svg?v=2)\
+\
+![Connect]\(./assets/connect.svg?v=2)\
+\
+\</div>\
+\
+\## 🚀 Featured Engineering Projects\
+\
+\<br/>\
+\
+\<table align="center" width="100%">\
+&#x20; \<tr>\
+&#x20;   \<td width="50%" valign="top">\
+&#x20;     \<h3 align="center">🏥 HealthCare AI Platform\</h3>\
+&#x20;     \<p align="center">\
+&#x20;       \<b>Smart Patient Diagnostics & Medical Insights System\</b>\
+&#x20;     \</p>\
+&#x20;     \<p>\
+&#x20;       An AI-powered healthcare assistant designed to analyze patient symptoms, predict potential health risks, and assist medical professionals with data-driven diagnostic insights.\
+&#x20;     \</p>\
+&#x20;     \<p>\
+&#x20;       \<b>Key Features:\</b>\<br/>\
+&#x20;       • Machine Learning diagnostic prediction models\<br/>\
+&#x20;       • Automated patient risk stratification\<br/>\
+&#x20;       • Interactive health monitoring dashboard\<br/>\
+&#x20;       • Secure medical data processing pipelines\
+&#x20;     \</p>\
+&#x20;     \<p>\
+&#x20;       \<b>Tech Stack:\</b> Python, Scikit-Learn, FastAPI, React, PostgreSQL\
+&#x20;     \</p>\
+&#x20;   \</td>\
+&#x20;   \<td width="50%" valign="top">\
+&#x20;     \<h3 align="center">💳 AI Fraud Detection System\</h3>\
+&#x20;     \<p align="center">\
+&#x20;       \<b>Real-Time Financial Transaction Anomaly Analysis\</b>\
+&#x20;     \</p>\
+&#x20;     \<p>\
+&#x20;       An enterprise-grade fraud detection engine built to analyze real-time streaming financial transactions and flag high-risk activities using machine learning algorithms.\
+&#x20;     \</p>\
+&#x20;     \<p>\
+&#x20;       \<b>Key Features:\</b>\<br/>\
+&#x20;       • Real-time streaming transaction processing\<br/>\
+&#x20;       • Anomaly detection using Isolation Forests & XGBoost\<br/>\
+&#x20;       • Risk scoring API for instant transaction decisioning\<br/>\
+&#x20;       • Comprehensive administrative dashboard\
+&#x20;     \</p>\
+&#x20;     \<p>\
+&#x20;       \<b>Tech Stack:\</b> Java, Spring Boot, Kafka, Python, XGBoost, Docker\
+&#x20;     \</p>\
+&#x20;   \</td>\
+&#x20; \</tr>\
+\</table>\
+\
+\<br/>\
+\
+\---\
+\
+\<p align="center">\
+&#x20; \<i>"Building scalable software, exploring AI/ML, and turning ideas into impactful digital products."\</i>\
+\</p>\
